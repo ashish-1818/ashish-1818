@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Ashish Doiphode 👋
 
-<!--
-**ashish-1818/ashish-1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Entry-Level Data Analyst passionate about transforming raw data into insights.
 
-Here are some ideas to get you started:
+🔧 Skills:
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Python (Pandas, NumPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects:
+- Cab Booking Data Analysis (SQL)
+- DMart Sales Dashboard (Power BI)
+- Swiggy Sales Analysis (Excel)
+
+📫 Connect with me:
+LinkedIn: (your link)
+Email: ashishdoiphode2004@gmail.com
