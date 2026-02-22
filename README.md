@@ -15,5 +15,5 @@ Hi, I'm Ashish Doiphode 👋
 - Swiggy Sales Analysis (Excel)
 
 📫 Connect with me:
-LinkedIn: (your link)
+LinkedIn: https://www.linkedin.com/in/ashishdoiphode/
 Email: ashishdoiphode2004@gmail.com
