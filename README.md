@@ -13,6 +13,7 @@ Hi, I'm Ashish Doiphode 👋
 - Cab Booking Data Analysis (SQL)
 - DMart Sales Dashboard (Power BI)
 - Swiggy Sales Analysis (Excel)
+- Electric Vehicle data Analysis Dashboard (Tableau)
 
 📫 Connect with me:
 LinkedIn: https://www.linkedin.com/in/ashishdoiphode/
